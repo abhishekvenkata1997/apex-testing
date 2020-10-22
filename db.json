@@ -10,7 +10,7 @@
   },
   {
     "id" : "2"
-    "cc_id":18141,
+    "cc_id": 18141,
     "cci_hash_id":"mail18141a",
     "phone_sms":"8017219021",
     "nc_insight_message":"Less than average usage this month",
@@ -19,7 +19,7 @@
   },
   {
     "id" : "3"
-    "cc_id":39021,
+    "cc_id": 39021,
     "cci_hash_id":"mail39021a",
     "phone_sms":"7810283210",
     "nc_insight_message":"Almost same usage this month",
