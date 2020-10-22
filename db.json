@@ -1,7 +1,7 @@
 "sms-date" = [
   {
-    "id" = "1",
-    "cc_id":17231,
+    "id" : "1",
+    "cc_id" : 17231,
     "cci_hash_id":"mail3723a",
     "phone_sms":"9993912314",
     "nc_insight_message":"Above than average usage this month",
