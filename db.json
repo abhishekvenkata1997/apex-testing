@@ -9,22 +9,14 @@
     "contenttype":"application/pdf"
   },
   {
-    "id" : "2"
+    "id" : "2",
     "cc_id" : "18141",
     "cci_hash_id":"mail18141a",
     "phone_sms":"8017219021",
     "nc_insight_message":"Less than average usage this month",
     "content_url":"https://drive.google.com/file/d/1-LJkO2KyfbCi8PixmAoAS9_m2yrJBXgO/view?usp=sharing",
     "contenttype":"application/pdf"
-  },
-  {
-    "id" : "3"
-    "cc_id" : "39021",
-    "cci_hash_id":"mail39021a",
-    "phone_sms":"7810283210",
-    "nc_insight_message":"Almost same usage this month",
-    "content_url":"https://drive.google.com/file/d/1px80qpYdlCZtCD5uzfAVbKEOA_jCBMDK/view?usp=sharing",
-    "contenttype":"application/pdf"
   }
+
 ]
 
